@@ -136,51 +136,21 @@ Booking Request Management
 
 # 📸 Project Screenshots
 
-> Add screenshots inside a folder named **screenshots** and update the image names below.
+| Home Page | Login Page |
+|------------|------------|
+| ![](screenshots/home.png) | ![](screenshots/login.png) |
 
-### 🏠 Home Page
+| Registration | User Registration |
+|--------------|-------------------|
+| ![](screenshots/register.png) | ![](screenshots/register1.png) |
 
-```markdown
-![Home Page](screenshots/home.png)
-```
+| Property Listing | Property Details |
+|------------------|------------------|
+| ![](screenshots/property.png) | ![](screenshots/property1.png) |
 
-### 🔐 Login Page
-
-```markdown
-![Login](screenshots/login.png)
-```
-
-### 📝 Registration Page
-
-```markdown
-![Register](screenshots/register.png)
-```
-
-### 🏡 Property Listing
-
-```markdown
-![Property Listing](screenshots/property-list.png)
-```
-
-### 🏠 Property Details
-
-```markdown
-![Property Details](screenshots/property-details.png)
-```
-
-### 📅 Booking Request
-
-```markdown
-![Booking](screenshots/booking.png)
-```
-
-### 📊 Dashboard
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
-
----
+| Booking Request |
+|-----------------|
+| ![](screenshots/booking.png) |
 
 # 🚀 Installation
 
